@@ -1,2 +1,2 @@
-# homologa-fornecdores-app
+# homologa-fornecedores-app
 "Sistema de Homologação de Fornecedores"
